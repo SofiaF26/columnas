@@ -33,6 +33,14 @@ p {
 
 }
 
+.nav-link {
+	min-height: 3.5rem;
+	background-color: rgb(90, 30, 30);
+	color: #fff;
+	font-size: 1rem;
+	font-family: monospace;
+  }
+
 .sedan {
 	
 	border-radius: 10px 0px 0px 10px;
